@@ -125,34 +125,5 @@ plot(weekendMean$interval, weekendMean$steps, type="l",
      main="Time Series Plot of Average Steps Taken per Interval (Weekends)",
      xlab="Intervals", ylab="Number of Steps",
      col="blue", ylim=c(0, 230))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ```
 
